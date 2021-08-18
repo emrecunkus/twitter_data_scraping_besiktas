@@ -1,0 +1,779 @@
+Bu txt dosyası seleniumla çalışan bi otonom yazılımın,
+çektiği verileri gösterir.
+
+----------------------------------------------------------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Beşiktaş JK
+@Besiktas
+·
+21s
+17 Ağustos 1999
+03.02
+UNUTMADIK!
+
+17 Ağustos Marmara Depremi’nin 22. yıl dönümünde hayatını kaybeden vatandaşlarımızı rahmetle anıyoruz.
+78
+3,4 B
+25,2 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+çArşı
+@forzabesiktas
+·
+22s
+Beşiktaşımıza hoş geldin Michy Batshuayi. 
+Birlikte nice zaferlere, şampiyonluklara... 
+
+#Batsman 
+@mbatshuayi
+56
+1,3 B
+17,4 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Fırat Günayer
+@firatgunayer
+·
+22s
+Beşiktaş’ın yeni transferi Batshuayi, İstanbul’a geldi..
+83
+378
+13 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+oguzcapitano
+@elcapitanojk
+·
+6s
+erdal torunoğulları görevi bıraktıktan sonra iki hafta içinde rosier ghezzal alex mert ve batshuayi bitirdi. BARON.
+27
+89
+3 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+VOLE
+@VOLEapp
+·
+10s
+ Michy Batshuayi, Beşiktaş'ta!
+8
+50
+2,3 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Kartal Dergi
+@KartalDergi
+·
+12s
+Neden Beşiktaş sorusunun cevabı
+3
+100
+1,7 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Nazmi BJK
+@nazmiJK
+·
+10s
+Ne dedik burası Beşiktaş dedik burda herkesin yeri dolar dedik.
+2
+13
+230
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+FutbolArena
+@futbolarena
+·
+4d
+ Kaan Ayhan, takımdan ayrılmak istediğini Sassuolo’ya iletti. Beşiktaş-Sassuolo görüşmeleri hız kazandı.
+
+ (NTV Spor / 
+@ovuncozdem
+)
+23
+12
+226
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+DadaaşBeey
+@Ahmeetaksuu
+·
+12s
+Beşiktaş Ailedir. 
+Günaydınlar efendim 
+1
+4
+249
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Seda Durgun Center
+@SsedaDurgun
+·
+5s
+Beşiktaş Ailedir  1903 
+@Besiktas
+12
+107
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+BeşiktAŞKMerve
+@dogan3091
+·
+5s
+   19:03   
+
+Olmazsa olmazımsın 
+@Besiktas
+3
+131
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+FMN Sports
+@fmnsports
+·
+10s
+Beşiktaş, Michy Batshuayi’yi kadrosuna kattı.
+Santi
+ adlı kullanıcıdan
+40
+133
+2 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Beşiktaş İstihbarat
+@istihbaratbjk
+·
+15s
+Günaydın , Beşiktaş Ailedir 
+2
+47
+839
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+demirdag_55
+@demirdag_55
+·
+5s
+1903 Beşiktaş’ım 
+4
+97
+--------------------------------------------------
+Bu txt dosyası seleniumla çalışan bi otonom yazılımın,
+çektiği verileri gösterir.
+
+----------------------------------------------------------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Fırat Günayer
+@firatgunayer
+·
+22s
+Beşiktaş’ın yeni transferi Batshuayi, İstanbul’a geldi..
+83
+378
+13 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Beşiktaş JK
+@Besiktas
+·
+11s
+Michy Batshuayi’nin Transferi İçin Görüşmelere Başlandı
+Michy Batshuayi’nin Transferi İçin Görüşmelere Başlandı
+Beşiktaş Futbol Yatırımları Sanayi ve Ticaret A.Ş.’den Kamuyu Aydınlatma Platformu’na yapılan açıklama şöyle: “Profesyonel
+bjk.com.tr
+462
+2,4 B
+24,4 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+FutbolArena
+@futbolarena
+·
+22s
+Batshuayi'den Beşiktaş taraftarlarına: " (TRT Spor) 
+65
+244
+7,1 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Bülent USLU
+@bulentuslu1903
+·
+1d
+@Besiktas
+ adlı kişiye yanıt olarak
+Çok mu güçlü olduk ne? Aman rakiplerin kem gözlerinden nazar değmesin.
+18
+8
+348
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Sercan Dikme
+@sercan_dikme
+·
+22s
+Çocukluktan itibaren biriktirdiği oyuncakları büyük bir cam dolap içinde saklıyor. Oyuncakların olduğu o cam dolap artık İstanbul’da.
+
+* Beşiktaş’ın 'Batman' lakaplı forveti Michy Batshuayi 
+@mbatshuayi
+50
+194
+4,8 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+GomezReyiz 
+@GomezReyizz
+·
+43sn
+@Besiktas
+ adlı kişiye yanıt olarak
+Şu ikilinin karizmasına bakar mısınız
+1
+2
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Renkli Yorumlar
+@renkli_yorumlar
+·
+9s
+Beşiktaş Kaan Ayhan transferi için anlaşmış ama başkan bekleyelim biraz demiş,
+Sassulo başkanı da neden bekliyoruz istediğiniz fiyata verdik işte demiş,
+Başkan da demiş ki daha Gs teklif yapmadı onlar yapsın öyle alalım 
+40
+168
+2,8 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+BBC News Türkçe
+@bbcturkce
+·
+4s
+Homofobik saldırılara maruz kalan milli voleybolcu #EbrarKarakurt'a, Beşiktaş voleybol takımı da destek verdi: "Bana ne! Sana ne! Bize ne! Size ne! Kime ne!"
+https://bbc.in/2XAQI59
+38
+170
+3,8 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Nur SEBA YILDIRIM
+@NurSebaYldrm1
+·
+13s
+“Beşiktaş’ta oynamaktan daha büyük ödül mü olur…”
+
+Süleyman Seba
+2
+86
+1,5 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+RotaBeşiktaş
+@RotaaBesiktas
+·
+17s
+Günaydın Şampiyon Beşiktaş JK Taraftarı 
+2
+8
+450
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+DadaaşBeey
+@Ahmeetaksuu
+·
+12s
+Beşiktaş Ailedir. 
+Günaydınlar efendim 
+1
+4
+249
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Seda Durgun Center
+@SsedaDurgun
+·
+5s
+Beşiktaş Ailedir  1903 
+@Besiktas
+12
+108
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+ANKARA@BJK
+@06Nrdn
+·
+14s
+Biz de böyle  
+@Besiktas
+13
+30
+1,6 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Didem Karagenç
+@D_Karagenc3
+·
+2s
+Juventus’a bir kartal pençesi bırakalım Biz geldik   Şampiyonlar liginde bizimle misin ?   #Besiktas #kadınfutbol
+16
+41
+999
+--------------------------------------------------
+Bu txt dosyası seleniumla çalışan bi otonom yazılımın,
+çektiği verileri gösterir.
+
+----------------------------------------------------------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+BBC News Türkçe
+@bbcturkce
+·
+16s
+Homofobik saldırılara maruz kalan milli voleybolcu #EbrarKarakurt'a, Beşiktaş voleybol takımı da destek verdi: "Bana ne! Sana ne! Bize ne! Size ne! Kime ne!"
+https://bbc.in/2XAQI59
+48
+254
+5,8 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+çArşı
+@1982denBeri
+·
+15s
+ Sergen Yalçın
+5
+31
+2,3 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Bülent USLU
+@bulentuslu1903
+·
+23s
+Batshuayi, Ghezzal, Rosier, Salih, Mert Günok, Alex Teixeira, Kenan Karaman ve Mehmet Topal. Gerek oyuncu yaşları, gerek maaşları gerek de kalite olarak kısıtlı imkanlarla müthiş bir transfer dönemi yaşatan Ahmet Nur Çebi ve yönetimini yürekten tebrik ediyorum. 
+132
+705
+14,7 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+çArşı
+@forzabesiktas
+·
+19s
+Mutluyuz...
+
+#Beşiktaş
+Beşiktaş JK
+@Besiktas
+ · 20s
+ Medya günü kamera arkası. 
+
+#BoğazınKartalı
+15
+290
+7,9 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+¹⁹⁰³
+@jksilan
+·
+10s
+1- Beşiktaş 'lı olarak ben bile  korktum.  
+12
+16
+413
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Beşiktaş JK
+@Besiktas
+·
+22s
+Michy Batshuayi’nin Transferi İçin Görüşmelere Başlandı
+Michy Batshuayi’nin Transferi İçin Görüşmelere Başlandı
+Beşiktaş Futbol Yatırımları Sanayi ve Ticaret A.Ş.’den Kamuyu Aydınlatma Platformu’na yapılan açıklama şöyle: “Profesyonel
+bjk.com.tr
+464
+2,4 B
+25,1 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Comte de la Bécasse
+@de_becasse
+·
+20s
+4 kardeşin içinden tek hayatta kalan o olduğu için adını Azmi koydum
+
+İnşallah sağlık sorunu olmaz, sevgi dolu bir hayat geçirir.
+
+Azmi’ye yuva açacak biri çıkmadı hala (Gayrettepe, Beşiktaş)
+6
+91
+169
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Comte de la Bécasse
+@de_becasse
+·
+20s
+4 kardeşin içinden tek hayatta kalan o olduğu için adını Azmi koydum
+
+İnşallah sağlık sorunu olmaz, sevgi dolu bir hayat geçirir.
+
+Azmi’ye yuva açacak biri çıkmadı hala (Gayrettepe, Beşiktaş)
+0:17
+1,3 B görüntülenme
+6
+91
+169
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Şℰℛℐℱℰ ℂℰℕᎶİℤℤ
+@cengizzz1903
+·
+16s
+Beşiktaş ailedir 
+          1903
+4
+16
+375
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+ᵀʰᵉ ᴮᵃʳᶦˢ ᴮᵒʳᵃ
+@TheBa62
+·
+14s
+Beşiktaş akaretlerde kilo alma vakti zalim kankalarım bi salın beni boğa burcu olmak kader değil kederdir 
+4
+32
+968
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+demirdag_55
+@demirdag_55
+·
+16s
+1903 Beşiktaş’ım 
+4
+126
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Burak Kara BEŞİKTAŞ JK
+@karaburak24
+·
+16s
+Gururlan Beşiktaş'lı 
+
+Dolu dizgin bu sene de bizim 
+
+#BeşiktaşZamanı
+11
+80
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+Didem Karagenç
+@D_Karagenc3
+·
+14s
+Juventus’a bir kartal pençesi bırakalım Biz geldik   Şampiyonlar liginde bizimle misin ?   #Besiktas #kadınfutbol
+27
+58
+1,7 B
+--------------------------------------------------
+--------------------------------------------------------
+Tweet bilgileri aşağıdadır
+--------------------------------------------------------
+Kullanıcı twitter rumuzu, kullanıcı twitter adı, 
+Tweet kaç saat önce atıldı bilgisi(örneğin 23s= 23 saat önce,) ,
+tweet içeriği(text),
+yorum sayısı, retweet sayısı, beğeni sayısı
+==========================================
+BandırmaKartalı
+@fatih10311332
+·
+16s
+19:03  Herdaim Beşiktaş 
+1
+71
+--------------------------------------------------
